@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12214" started-at="2020-09-10T10:20:40Z" finished-at="2020-09-10T10:20:52Z">
+    <groups>
+    </groups>
+    <test name="flight" duration-ms="12214" started-at="2020-09-10T10:20:40Z" finished-at="2020-09-10T10:20:52Z">
+      <class name="sample.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:sample.Tests@16eb2ec]" name="setup" is-config="true" duration-ms="5121" started-at="2020-09-10T15:50:35Z" finished-at="2020-09-10T15:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="flightSearch()[pri:0, instance:sample.Tests@16eb2ec]" name="flightSearch" duration-ms="12196" started-at="2020-09-10T15:50:40Z" finished-at="2020-09-10T15:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearch -->
+      </class> <!-- sample.Tests -->
+    </test> <!-- flight -->
+  </suite> <!-- Suite -->
+</testng-results>
